@@ -1,0 +1,7 @@
+export const EMERGENCY_STATES = {
+    PENDING: 'PENDING',
+    NEW: 'NEW',
+    ONROAD: 'ONROAD',
+    FULFILLED: 'FULFILLED',
+    CANCELED: 'CANCELED'
+}
